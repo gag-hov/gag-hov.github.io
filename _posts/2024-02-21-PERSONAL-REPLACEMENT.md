@@ -1,8 +1,8 @@
 ---
 title: Automotive Engine Replacement Project
-date: 2025-02-21 02:00:00 +/-0000
+date: 2025-02-21 01:00:00 +/-0000
 categories: [project, personal, auto, electrical]
-tags: [personal-project, automotive, electrical]     # TAG names should always be lowercase
+tags: [personal-project, automotive, electrical]
 ---
 
 ### Control and Engineering of Various Automotive Units
