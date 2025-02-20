@@ -1,5 +1,6 @@
 ---
-# the default layout is 'page'
+layout: page
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
@@ -61,4 +62,4 @@ To improve search engine visibility and indexing, my site is verified with:
 - **Yandex Webmaster**  
 - **Facebook Business Tools**  
 
-I am always open to new opportunities and collaborations. Feel free to email.
+I am always open to new opportunities and collaborations. Feel free to **[email me](mailto:gagik-hovhannisyan.zzz@gmail.com)**!
