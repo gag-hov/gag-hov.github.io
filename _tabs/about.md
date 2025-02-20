@@ -61,5 +61,5 @@ To improve search engine visibility and indexing, my site is verified with:
 - **Yandex Webmaster**  
 - **Facebook Business Tools**  
 
-I am always open to new opportunities and collaborations. Feel free to **[reach out]({{ site.baseurl }}/contact/)**!  
+I am always open to new opportunities and collaborations. Feel free to **[reach out]({{ "/contact/" | absolute_url }})**!  
 
