@@ -52,7 +52,7 @@ I am an experienced **engineer and operations manager** with over **8+ years of 
 
 ## Training & Certifications  
 - **2017**: Computer Programming & Engineering (Linux OS, Scripting, Hardware Programming) – Instigate Training Center CJSC.  
-- **2016**: Hardware Engineer Courses – Japanese Car Service Salon.  
+- **2016**: Hardware Engineer Courses – Japanese Car Service Salon.
 
 ## Webmaster Verification  
 To improve search engine visibility and indexing, my site is verified with:  
@@ -61,5 +61,5 @@ To improve search engine visibility and indexing, my site is verified with:
 - **Yandex Webmaster**  
 - **Facebook Business Tools**  
 
-I am always open to new opportunities and collaborations. Feel free to **[reach out](conact tbd)**!  
+I am always open to new opportunities and collaborations. Feel free to **[reach out]({{ site.baseurl }}/contact/)**!  
 
